@@ -129,7 +129,7 @@ const DashboardPage = () => {
         labels: sensores.map(s => s.id),
         datasets: [
           {
-            label: 'Humedad (%)',
+            label: 'Humedad',
             data: sensores.map(s => s.moisture.value),
             backgroundColor: 'rgba(34, 197, 94, 0.6)', // verde-500 con opacidad
             borderColor: 'rgba(34, 197, 94, 1)',

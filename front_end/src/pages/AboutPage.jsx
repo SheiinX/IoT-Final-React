@@ -64,10 +64,10 @@ import React from 'react';
         },
         {
           name: "Sebastian Franco",
-          role: "Ingeniero de Sistemas",
-          description: "Sebastian es un ingeniero de sistemas con una sólida trayectoria en el desarrollo y la implementación de soluciones tecnológicas innovadoras. En el proyecto Sistema IoT UPB, es responsable de la arquitectura del sistema, la integración de los sensores y el desarrollo de la plataforma.",
+          role: "Ingeniero en Diseño de Entretenimiento Digital",
+          description: "Sebastian es un ingeniero de entretenimiento digital con una sólida trayectoria en el desarrollo y la implementación de soluciones creativas y visuales funcionales. En el proyecto Sistema IoT UPB, es responsable de la arquitectura del sistema, la integración de los sensores y el desarrollo de la plataforma.",
           icon: <Settings className="w-8 h-8" />,
-          imageUrl: "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8cG9ydHJhaXQlMjBtYW58ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=300&q=60",
+          imageUrl: "/20240212_093617.jpg",
           altText: "Foto de Sebastian Franco, Ingeniero de Sistemas",
           delay: 0.4
         }
